@@ -24,15 +24,17 @@
     {"first": "Annoying"},
     {"first": "Fat"},
     {"first": "Lonely"},
-    {"first": "Putrid"}
+    {"first": "Putrid"},
+    {"first": "Shitty"},
+    {"first": "Red"},
+    {"first": "White"}
   ],
   "seconds" : [
-    {"second": "before"},
-    {"second": "after"},
+//    {"second": "before"},
+//    {"second": "after"},
     {"second": "+"},
     {"second": "|"},
-    {"second": ""},
-    {"second": "on"}
+    {"second": ""}
   ],
   "thirds" : [
     {"third": "Melancholy"},
@@ -57,8 +59,13 @@
     {"third": "Wasp"},
     {"third": "Forest"},
     {"third": "Blackout"},
+    {"third": "Whiteout"},
     {"third": "Death"},
     {"third": "Balls"},
-    {"third": "Grave"}
+    {"third": "Grave"},
+    {"third": "Shit"},
+    {"third": "Squad"},
+    {"third": "Youths"},
+    {"third": "Breakfast"}
   ]
 }

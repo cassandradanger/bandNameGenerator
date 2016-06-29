@@ -19,14 +19,20 @@
     {"first": "Ambivalent"},
     {"first": "Iron"},
     {"first": "Dark"},
-    {"first": "Fallen"}
+    {"first": "Fallen"},
+    {"first": "Black"},
+    {"first": "Annoying"},
+    {"first": "Fat"},
+    {"first": "Lonely"},
+    {"first": "Putrid"}
   ],
   "seconds" : [
     {"second": "before"},
     {"second": "after"},
     {"second": "+"},
     {"second": "|"},
-    {"second": ""}
+    {"second": ""},
+    {"second": "on"}
   ],
   "thirds" : [
     {"third": "Melancholy"},
@@ -49,6 +55,10 @@
     {"third": "Ash"},
     {"third": "Raven"},
     {"third": "Wasp"},
-    {"third": "Forest"}
+    {"third": "Forest"},
+    {"third": "Blackout"},
+    {"third": "Death"},
+    {"third": "Balls"},
+    {"third": "Grave"}
   ]
 }

@@ -30,8 +30,6 @@
     {"first": "White"}
   ],
   "seconds" : [
-//    {"second": "before"},
-//    {"second": "after"},
     {"second": "+"},
     {"second": "|"},
     {"second": ""}
